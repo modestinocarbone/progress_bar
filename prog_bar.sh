@@ -21,4 +21,5 @@ gcc ./sources/hamburger.c -o hamburger
 ./bar 80
 ./bun 
 ./bar 100
+rm bar
 clear
