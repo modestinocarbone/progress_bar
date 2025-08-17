@@ -1,8 +1,6 @@
 # Progress bar
 ---
 
-A simple C program that generates a progress bar during installation.
-
 A simple C program that generates a progress bar in the terminal. It can display progress making it useful for installation scripts, long-running processes, or command-line tools.
 
 ## Requirements
